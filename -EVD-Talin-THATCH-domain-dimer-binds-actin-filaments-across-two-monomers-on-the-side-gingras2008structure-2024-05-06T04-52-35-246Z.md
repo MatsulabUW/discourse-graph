@@ -1,4 +1,4 @@
-# [[EVD]] - Talin THATCH domain dimer binds actin filaments across two monomers on the side - [[@gingras2008structure]]
+# [[EVD]] - Talin THATCH domain dimer bound actin filaments across two monomers on the side - [[@gingras2008structure]]
 ##  Summary  
   - > Using electron microscopy, extra density was visible decorating the actin filaments at both pH 7.0 and 7.5 in the presence of the talin construct (Figure 5A arrows), clearly indicating binding. @gingras2008structure  
   - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fteamcovid%2FZ86jNWkqHW.png?alt=media&token=3f10a398-de95-4ffb-b332-72cd82222539) Figure 5  
