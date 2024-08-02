@@ -1,0 +1,64 @@
+# Nanopublication/hiPSC lumenoids for imaging endocytic dynamics in a 3D native environment
+### Abstract  
+  - (Adapted from ISCRM Stem Cell Symposium 2024)  
+  - Three-dimensional (3D) cell culture is increasingly being used as a model to study cell and tissue organization and behavior in an environment that more closely resembles what cells encounter _in vivo_ (Figure 1.A). [Habanjar et al. (2021)](https://roamresearch.com/#/app/akamatsulab/page/xFTN0tzaC) While previous work has shown stable and reproducible formation of human embryonic stem cell (hESC) lumenoids in extracellular matrix (ECM) gels, [Taniguchi et al. (2015)](https://roamresearch.com/#/app/akamatsulab/page/XFvcRaqrU) 3D human induced pluripotent stem cell (hiPSC) lumenoid culture is relatively unexplored.  
+  - Non-tagged and endogenously tagged hiPSCs were passaged according to established culturing and maintenance protocol. (Angelique Nelson, Stephanie Q Dinh, Kaytlyn Gerbin, Melissa Hendershott, Caroline Hookway, Ruwanthi N Gunawardane 2021. Maintenance of Undifferentiated hiPSC Cultures and Differentiation to Cardiomyocytes on Glass Surfaces. protocols.io https://dx.doi.org/10.17504/protocols.io.wjmfck6) <br/>The hiPSCs in this study were WTC-10 and WTC-11 cells, originally from the Conklin lab (Gladstone Institutes). Gene edited-cell lines were created in the Drubin Lab (UC Berkeley).<br/>Single cell or clump suspension was mixed at varying dilutions with Matrigel (Corning® Matrigel® Matrix, Phenol Red Free, Cat `#356231`). Matrigel/Cell mixtures were seeded glass-bottom 8-well plates (µ-Slide 8 Well, ibidi, Cat`#80826`) for fluorescence imaging or in 70µm channels (µ-Slide Chemotaxis, ibidi, Cat`#80326`). Confining cells to a channel was intended to grow lumenoids of consistent size in an easy-to-image focal plane. Fluorescent imaging was carried out on a ZEISS Lattice Lightsheet 7.  
+  - We found that hiPSC cells seeded in ECM gel formed lumenoid 3D structures resembling those seen in epithelial 3D culture. Cells that were seeded in Matrigel formed regular lumenoids 3 days after seeding as single cells and remained a polarized monolayer surrounding a lumen for up to 5 days after seeding (Figure 1.B). Varying the matrigel concentration at seeding changed the average lumenoid size. We found that cells confined in channel slides in 5.9 mg/mL Matrigel formed lumenoids that were consistent in size (67 $$\pm$$ 16 µm) after three days and were 50% larger in size compared to cells seeded in 4.4 mg/mL matrigel (42 $$\pm$$ 10 µm) (Figure 1.C). Finally, we demonstrated the suitability of these lumenoids for fluorescence microscopy to investigate endocytic dynamics using Lattice Light Sheet Microscopy (Figure 1D).  
+  - In conclusion, this reproducible method to grow gene-edited hiPSC-derived lumenoids allows us to culture healthy, diploid human cells in a tunable environment that’s mechanically and physiologically closer to that in human tissue.   
+
+### Figure  
+  - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fakamatsulab%2FLc9PbOXbfa.png?alt=media&token=2706a5b6-0068-4a1a-8775-addd9a400199)  
+  - _Caption:_   
+    - **A**: Extracellular matrix gels provide a tunable environment that’s mechanically and physiologically closer to that in human tissue. [Habanjar et al. (2021)](https://roamresearch.com/#/app/akamatsulab/page/xFTN0tzaC), [Slater et al. (2018)](https://roamresearch.com/#/app/akamatsulab/page/s8XLybvJ3), Figure adapted from _( CytoSoft® Rigidity Plates, Advanced Biomatrix, https://advancedbiomatrix.com/cytosoft/, Accessed April 25, 2024.)_  and created with BioRender.com  
+    - **B**: hiPSCs that were seeded in Matrigel formed a monolayer structure surrounding a lumen ~ 3 days after seeding as single cells, and continued to grow in a lumenoid form for up to 5 days. Scale bar: 50µm  
+    - **C**: hiPSC lumenoids in a higher concentration of Matrigel were on average ~50% larger than lumenoids in less concentrated seeding conditions. Scale bar: 100µm  
+    - **D**: Lattice light sheet microscopy of gene-edited hiPSC-derived lumenoids confirmed the polarized monolayer structure. Scale bar: 5µm  
+
+### Background/Discourse Context:  
+  - **Introduction**  
+    - 3D culture is a tool to study cells in a three-dimensional environment that more closely resembles the native environment of cells in human tissues ([Habanjar et al. (2021)](https://roamresearch.com/#/app/akamatsulab/page/xFTN0tzaC))  
+    - Some cells form a "lumenoid," a single cell layer formed around a "lumen" [cit]  
+    - Previous work has shown that human embryonic stem cels (hESCs) form lumenoid structures after 3 days and retain their pluripotency status   
+      - EVD - Lumenoids formed over 3 days in hESCs - @taniguchi2015lumen  
+    - EVD - Single MCF10A cells cultured with Cultrex UltiMatrix BME showed superior "acini" formation (increased size and consistency) compared to Cultrex BME, Type R1 and Matrigel.  - @CultrexPoster2020  
+    - In this work, we sought to explore whether human induced pluripotent stem cells form lumenoid structures when cultured in an extracellular matrix gel, and whether it can be used as a reproducible model to study endocytic dynamics in 3D culture.  
+    - Research questions:  
+      - @TC/WTC-11 lumenoids in matrigel vs geltrex vs culturex  
+      - @TC/Will growing lumenoids in confined ibidi channels allow for better consistent growth and focal plane of lumenoids?  
+      - QUE - How and when do hiPSCs lumenoids form?  
+  - **Methodology**  
+    - Cells: WTC-10 DNM-TagGFP, AP2-RFP, ArpC3-Halo or WTC-11 (no-tag)  
+    - ECM gel: Matrigel, Geltrex, Cultrex  
+    - Tested different suspension and dilutions, both single cell and clump passaging, to identify the most consistent methodology  
+  - **Results**  
+    - **Pilot**  
+      - RES - hiPSCs that were seeded as single cells or small clumps of ~3 cells formed hollow, lumenoid, structures after 4 days of culture, as verified by LLS imaging. - Project/Growing lumenoids from WTC stem cells  
+        - {{table}}  
+        - ^^ Add the Zeiss images and dynamics ^^  
+    - **ECM Comparison**  
+      - conditions:  
+        - Single cell passaging  
+        - matrix gel: cultrex, geltrex, Matrigel: aliquot into 100µL (need 500µL total for this experiment)  
+          - Cell densities: always adding 10µL of cell suspension into 100µL of gel: 100,000 cells/mL; 50,000 cells/mL; 25,000 cells/mL  
+          - gel dilution: always add 500 cells total in droplet; using the cell suspension above:<br/>5µL of 100,000 cells/mL<br/>10µL of 50,000 cells/mL (condition already exists)<br/>20µL of 25,000 cells/mL  
+        - Grow and monitor for 7 days  
+        - Gels used:  
+          - 7cVxGaoM_  
+          - IZPkWt0dw  
+          - bsQRVIW2M  
+      - RES - WTC-11 cells that were seeded in Matrigel (8.8 mg/mL) formed several lumenoid structures after 3 days that stayed seemingly single layer up to day 5. - Project/Growing lumenoids from WTC stem cells  
+      - RES - WTC-11 cells that were seeded in Geltrex (16.0 mg/mL) did not reliably from lumenoid structures after 3 days and mostly experienced death at days 4 and 5. - Project/Growing lumenoids from WTC stem cells  
+      - RES - WTC-11 cells that were seeded on Cultrex (9.5 mg/mL) formed 3D structures after 3 days that didn't seem lumenoid and did not survive past day 4. - Project/Growing lumenoids from WTC stem cells  
+    - **Single Imaging Plane**  
+      - RES - Cells grown in a 1:1 matrigel:cell suspension matrix formed lumens later and resulted in smaller final lumenoid structures than cells grown in a 2:1 ratio.  - @TC/Will growing lumenoids in confined ibidi channels allow for better consistent growth and focal plane of lumenoids?  
+        - Mean size is 42 $$\pm$$ 10 µm  
+          - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fakamatsulab%2FABThIOFE0n.jpg?alt=media&token=8f536ecd-1a17-4dd5-846d-1471421c084e)  
+      - RES - Cells grown in matrigel within ibidi's chemotaxis channel slide with a height of 70 µm, in a 2:1 matrigel:cell suspension matrix, grew into lumenoid formations by day 2 after seeding and reached 67 $$\pm$$ 16 µm size at day 3 while seemingly being all in a single focal plane. - @TC/Will growing lumenoids in confined ibidi channels allow for better consistent growth and focal plane of lumenoids?  
+        - Mean size is 67 $$\pm$$ 16 µm  
+          - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fakamatsulab%2F062UWRzdCC.jpg?alt=media&token=7a76d745-cea3-499a-b786-4160bb1b48d9)  
+  - **Discussion and Conclusion**  
+    - CON - hiPSCs form lumenoid structures after 3 days when seeded in extra cellular matrix gel  
+    - CON - WTC-11 cells form lumenoids within 3 days when grown in an extracellular matrix gel such as matrigel at several different concentrations (2 to 10 parts matrigel to 1 part cells)  
+    - CON - ibidi chemotaxis slides allow for easy growth lumenoids that are consistent in size and morphology, and in a single focal plane for ease of imaging  
+    - QUE - Are there differences in endocytosis dynamics related to cell location?  
+    - QUE - How does varying stiffness in 3D culture affect endocytosis?  
