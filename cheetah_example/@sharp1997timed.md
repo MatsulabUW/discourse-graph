@@ -1,0 +1,18 @@
+- metadata::
+    - Title:: Timed running speed of a cheetah (Acinonyx jubatus)
+    - Year:: 1997
+    - Author(s):: N. C. C. Sharp
+    - Abstract:: The speed of an adult cheetah was timed at 29ms-1 (mean of three trials over a 201.2 m course, with a running start). This is the highest running speed that has been recorded reliably for any animal.
+    - Type:: Article
+    - Publication:: Journal of Zoology
+    - URL:: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7998.1997.tb04840.x
+    - Date Added:: [[May 29th, 2023]]
+    - Zotero Links:: [Local Library](zotero://select/groups/4793603/items/3Z6RYRHP), [Web Library](https://www.zotero.org/groups/4793603/items/3Z6RYRHP)
+    - Publication Tags:: 
+    - PDF links:: 
+    - Item Collection: 
+    - Notes
+        - Hanna Notes
+- # Relevant [[QUE]] Questions
+- # Quotes, Figures, [[EVD]] Evidence
+    - [[[[EVD]] - A cheetah chased a Jeep at a speed of 63.8 ± 1.5 mph - [[@sharp1997timed]]]]
